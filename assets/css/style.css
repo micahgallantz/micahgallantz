@@ -12,6 +12,10 @@
       -webkit-transform: translateY(-100%);
       transform: translateY(-100%);
       z-index: -1; } }
+    h1 {
+        color: blue;
+        text-align: center;
+    }
     #fadein {
       opacity: 1;
       position: fixed;
@@ -30,17 +34,6 @@
       animation: fadeinall 1s normal both;
       -webkit-animation-delay: 0.3s;
       animation-delay: 0.3s; }
-
-
-
-
-
-
-
-
-
-
-      
   .nav {
     overflow: hidden; }
   .nav a {
