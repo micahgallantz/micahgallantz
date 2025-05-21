@@ -1,5 +1,14 @@
-h1 {
+html *
+{
     text-align: center;
+    color: #1c1c1c;
+    font-family: Palatino !important;
+}
+h1 {
+    font-size: 36pt;
+}
+h2 {
+    font-size: 20pt;
 }
   .nav {
     overflow: hidden; }
