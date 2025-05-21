@@ -28,6 +28,7 @@ hr {
   margin-right: auto;
 }
 img {
+    width: max(100px,20%);
       border-radius: 5px;
 }
   .nav {
